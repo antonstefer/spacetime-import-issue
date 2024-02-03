@@ -1,0 +1,12 @@
+{
+  "extends": "@tsconfig/node20/tsconfig.json",
+  "compilerOptions": {
+    "useUnknownInCatchVariables": false,
+    "noUnusedLocals": true,
+    "resolveJsonModule": true,
+    "outDir": "dist/",
+    "baseUrl": ".",
+    "verbatimModuleSyntax": true
+  },
+  "exclude": ["node_modules"]
+}

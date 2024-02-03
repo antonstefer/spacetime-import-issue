@@ -1,0 +1,14 @@
+{
+  "name": "spacetime-import-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --inlineSourceMap"
+  },
+  "dependencies": {
+    "@tsconfig/node20": "^20.1.2",
+    "spacetime": "^7.5.0",
+    "typescript": "^5.3.3"
+  }
+}
