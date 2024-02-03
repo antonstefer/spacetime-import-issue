@@ -1,0 +1,1 @@
+Execute `npm run build` to reproduce the error described in https://github.com/spencermountain/spacetime/issues/407
